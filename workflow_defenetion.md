@@ -1,3 +1,5 @@
-1. Master branch which is haveing code base as release to production
-2. The code only merge to this branch is from latest release branch and which released to production
-3. Code may merge to this branch from hot fix if required.
+1. This is Dev branch 
+2. All Devlopers who are working for current relase should push or raise Pull request to this branch 
+3. Should merge hotfixes to this branch.
+4. At the time of release will create a release branch from this and release changes to production from release branch
+
