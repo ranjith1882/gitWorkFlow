@@ -1,5 +1,4 @@
-1. This is Dev branch 
-2. All Devlopers who are working for current relase should push or raise Pull request to this branch 
-3. Should merge hotfixes to this branch.
-4. At the time of release will create a release branch from this and release changes to production from release branch
+1. This is a feature branch which is created for developer who are working on paymen feature and which planned for June
+2. This branch will merge to Dev branch once May release done.
+
 
